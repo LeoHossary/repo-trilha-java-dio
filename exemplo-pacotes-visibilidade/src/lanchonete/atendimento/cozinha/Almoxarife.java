@@ -1,3 +1,5 @@
+package lanchonete.atendimento.cozinha;
+
 public class Almoxarife {
   public void controlarEntrada() {
     System.out.println("CONTROLANDO A ENTRADA DOS INGREDIENTES");

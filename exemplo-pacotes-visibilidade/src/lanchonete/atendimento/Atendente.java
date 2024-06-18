@@ -1,3 +1,5 @@
+package lanchonete.atendimento;
+
 public class Atendente {
   public void servindoMesa() {
     System.out.println("SERVINDO MESA");
